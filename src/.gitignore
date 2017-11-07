@@ -1,1 +1,6 @@
 *.o
+HYPRE_config.h
+config.log
+config.status
+config/Makefile.config
+autom4te.cache
